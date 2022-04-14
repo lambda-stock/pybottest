@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+feedparser==6.0.8
+Pyrogram==1.4.15
+requests==2.27.1
